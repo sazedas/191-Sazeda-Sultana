@@ -1,10 +1,11 @@
 Use git status to see which branch you are on.
-master
+Master
 
 What does git log look like?
-list
+list of commits done by me
 
 Create a file
+Created
 
 
 What does the output from git status look like now?
@@ -34,7 +35,16 @@ add the file change
 Added
 
 What does git status look like now?
+README.md is yet to commited
+
 Change the file again
+Changed
+
 Make a commit
+Commited
+
 What does the status look like now? The log?
+Atatus shows that README.md is yet to be commited. Log shows ist of all commits
+
 Commit the newest change
+Commited
